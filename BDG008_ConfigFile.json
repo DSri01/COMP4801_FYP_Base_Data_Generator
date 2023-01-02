@@ -1,0 +1,23 @@
+{
+  "number_of_investors": 10000,
+  "number_of_companies": 2000,
+  "number_of_friend_edges": 500,
+  "number_of_mirror_edges": 300,
+  "follower_list_friend_power_dis_param": 2,
+  "leader_list_1_friend_power_dis_param": 3,
+  "leader_list_2_friend_power_dis_param": 5,
+  "choose_leader_list_1_as_friend_prob": 0.85,
+  "follower_list_mirror_power_dis_param": 3,
+  "follower_mirrors_a_friend_probability": 0.8,
+  "follower_removes_a_mirror_probability": 0.5,
+  "investor_name_file_name": "Data/InvestorNames.csv",
+  "tradebook_investment_amount_file_name": "Data/TradebookAmount.csv",
+  "company_name_file_name": "Data/CompanyNames.csv",
+  "company_list_file_name": "Data/CompanyList.txt",
+  "follower_list_file_name": "Data/FollowerList.txt",
+  "leader_list_1_file_name": "Data/LeaderList1.txt",
+  "leader_list_2_file_name": "Data/LeaderList2.txt",
+  "friend_edges_file_name": "Data/FriendEdges.csv",
+  "mirror_edges_file_name": "Data/MirrorEdges.csv",
+  "remove_mirror_edges_file_name": "Data/RemoveMirrorEdges.csv"
+}
